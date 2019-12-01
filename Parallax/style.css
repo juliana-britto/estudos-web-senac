@@ -43,7 +43,7 @@ section{
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
-	background-attachment: fixed; /*foxou as fotos e o texto passa por cima*/
+	background-attachment: fixed; /*fixou as fotos e o texto passa por cima*/
 }
 
 .letreiro{
